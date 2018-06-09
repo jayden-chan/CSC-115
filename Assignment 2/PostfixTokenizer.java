@@ -1,6 +1,5 @@
 /*
  * Name: Jayden Chan
- * ID: V00898517
  * Date: Jan 30 2018
  * Filename: PostfixTokenizer.java
  * Details: Converts a set of operator and operand tokens into postfix notation.

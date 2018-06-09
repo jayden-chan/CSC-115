@@ -1,6 +1,5 @@
 /*
  * Name: Jayden Chan
- * ID: V00898517
  * Date: Jan 15 2018
  * Filename: VigenereCipher.java
  * Details: CSC 115 Assignment 1

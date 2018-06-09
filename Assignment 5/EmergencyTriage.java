@@ -1,6 +1,5 @@
 /**
  * Name: Jayden Chan
- * ID: V00898517
  * Date: April 6, 2018
  * Filename: EmergencyTriage.java
  * Details: Uses the ADT Heap to implement a

@@ -1,6 +1,5 @@
 /*
  * Name: Jayden Chan
- * ID: V00898517
  * Date: Jan 30 2018
  * Filename: StringStack.java
  * Details: A reference-based stack implementation that stores Strings only.

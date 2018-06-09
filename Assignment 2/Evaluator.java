@@ -1,6 +1,5 @@
 /*
  * Name: Jayden Chan
- * ID: V00898517
  * Date: Jan 30 2018
  * Filename: Evaluator.java
  * Details: Evaluates a math expression given as a string.

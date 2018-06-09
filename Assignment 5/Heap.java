@@ -1,6 +1,5 @@
 /**
  * Name: Jayden Chan
- * ID: V00898517
  * Date: April 6, 2018
  * Filename: Heap.java
  * Details: Generic ADT Heap implementation.
